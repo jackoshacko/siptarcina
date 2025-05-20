@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 20 May 2025 20:28:01 at http://luna-memestarter.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://luna-memestarter.com/ -O1 "C:\My Web Sites\fddf" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:29:59	Error: 	"Not Found" (404) at link luna-memestarter.com/assets/logo-full.svg (from luna-memestarter.com/)
+20:30:00	Error: 	"Not Found" (404) at link luna-memestarter.com/terms-of-service.html (from luna-memestarter.com/create-token/index.html)
+20:30:00	Error: 	"Not Found" (404) at link luna-memestarter.com/privacy-policy.html (from luna-memestarter.com/create-token/index.html)
+20:30:00	Error: 	"Not Found" (404) at link luna-memestarter.com/create-token/assetsSatoshi-Variable-ChAXbpFa.ttf (from luna-memestarter.com/create-token/assets/index-DXrY5z_5.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 59 seconds : 37 links scanned, 32 files written (3138419 bytes overall) [3149635 bytes received at 26467 bytes/sec], 3.3 requests per connection
+(4 errors, 0 warnings, 0 messages)
